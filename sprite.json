@@ -1,33 +1,33 @@
 {
-  "00_00": {
+  "g00_00": {
     "height": 6,
     "pixelRatio": 1,
     "width": 6,
     "x": 0,
     "y": 0
   },
-  "01_00": {
+  "g01_00": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 20,
     "y": 0
   },
-  "02_00": {
+  "g02_00": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 40,
     "y": 0
   },
-  "03_00": {
+  "g03_00": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
     "x": 60,
     "y": 0
   },
-  "04_00": {
+  "g04_00": {
     "height": 20,
     "pixelRatio": 1,
     "width": 20,
