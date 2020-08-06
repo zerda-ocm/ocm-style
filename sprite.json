@@ -43,5 +43,5 @@
   "sign_drinking_water":            {"height":  40, "width":  40, "x": 240, "y": 120, "pixelRatio": 1 },
   "sign_berthing_unmarked":         {"height":  40, "width":  40, "x": 240, "y": 140, "pixelRatio": 1 },
   "sign_closed_area":               {"height":  30, "width":  30, "x": 280, "y":   0, "pixelRatio": 1 },
-  "sign_keep_to_starboard":         {"height":   ?, "width":  30, "x": 280, "y":  30, "pixelRatio": 1 }
+  "sign_keep_to_starboard":         {"height":  40, "width":  30, "x": 280, "y":  30, "pixelRatio": 1 }
 }
