@@ -81,7 +81,7 @@
   "sign_give_way_crossing":         {"height":  40, "width":  40, "x": 310, "y": 220, "pixelRatio": 1 },
   "sign_give_way_junction":         {"height":  40, "width":  40, "x": 310, "y": 260, "pixelRatio": 1 },
   "sign_channel_distance_left":     {"height":  30, "width":  40, "x": 350, "y":   0, "pixelRatio": 1 },
-  "sign_channel_distance_right":    {"height":  30, "width":  40, "x": 350, "y":  30, "pixelRatio": 1 }
+  "sign_channel_distance_right":    {"height":  30, "width":  40, "x": 350, "y":  30, "pixelRatio": 1 },
   "sign_ferry_independent":         {"height":  30, "width":  40, "x": 350, "y":  60, "pixelRatio": 1 },
   "sign_ferry_non_independent":     {"height":  30, "width":  40, "x": 350, "y":  90, "pixelRatio": 1 },
   "sign_no_wash":                   {"height":  40, "width":  40, "x": 350, "y": 120, "pixelRatio": 1 }
