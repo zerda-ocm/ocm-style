@@ -1,22 +1,22 @@
 {
   "peak": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 21,
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 42,
     "y": 0
   },
   "peak_cross": {
-    "height": 20,
-    "pixelRatio": 1,
-    "width": 20,
-    "x": 41,
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 82,
     "y": 0
   },
   "saddle": {
-    "height": 21,
-    "pixelRatio": 1,
-    "width": 21,
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
     "x": 0,
     "y": 0
   }
