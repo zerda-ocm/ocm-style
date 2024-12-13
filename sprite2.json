@@ -1,16 +1,16 @@
 {
   "peak": {
-    "height": 100,
+    "height": 20,
     "pixelRatio": 1,
-    "width": 100,
+    "width": 20,
     "x": 0,
     "y": 0
   },
   "peak_cross": {
-    "height": 100,
+    "height": 20,
     "pixelRatio": 1,
-    "width": 100,
-    "x": 100,
+    "width": 20,
+    "x": 20,
     "y": 0
   }
 }
