@@ -1,0 +1,16 @@
+{
+  "peak": {
+    "height": 100,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "peak_cross": {
+    "height": 100,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 100,
+    "y": 0
+  }
+}
